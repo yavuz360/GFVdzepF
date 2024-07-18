@@ -1,6 +1,5 @@
 At SHOPZ38 
 
-Safe Vault 6WL
 Growpedia (gems book) 1WL
 Cow seed 1WL
 Chicken seed 1WL
@@ -10,3 +9,6 @@ Das red balloon 13/1
 Chemsynth Catalyst 1WL
 Growby 20WL
 Torch 200/1
+Chemical G (buying all 800/1)
+Chemical R (buying all 800/1)
+Beach Blast (buying all 4/1)
