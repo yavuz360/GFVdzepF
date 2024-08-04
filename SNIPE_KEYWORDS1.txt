@@ -1,4 +1,0 @@
-Chicken,5/1
-Chicken,6/1
-Chicken,5
-Chicken,6
