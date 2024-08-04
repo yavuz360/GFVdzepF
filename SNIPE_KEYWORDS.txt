@@ -1,2 +1,3 @@
 pepper,45
-
+lgrid,20
+laser grid,20
