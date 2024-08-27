@@ -1,3 +1,3 @@
-pepper,45
-lgrid,20
-laser grid,20
+bio waste,5
+biowaste,5
+bwaste,5
